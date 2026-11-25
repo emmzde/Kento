@@ -111,4 +111,4 @@ the keys and set `KENTO_LIVE=1` or `KENTO_BENCH=1`.
 
 ## License
 
-No license yet; all rights reserved.
+[MIT](LICENSE). Bundled whisper.cpp, Whisper and Tesseract data keep their own licenses (`data/src/main/assets/licenses`).
