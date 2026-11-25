@@ -1,0 +1,2 @@
+# Recorded provider streams are byte-exact fixtures.
+*.sse -text

@@ -1,0 +1,32 @@
+data: {"id":"chatcmpl-001da7ed8a8d","object":"chat.completion.chunk","created":1795514918,"model":"glm-5.3-flash-abliterated","choices":[{"index":0,"delta":{"role":"assistant","content":""},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-001da7ed8a8d","object":"chat.completion.chunk","created":1795514918,"model":"glm-5.3-flash-abliterated","choices":[{"index":0,"delta":{"content":"I"},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-001da7ed8a8d","object":"chat.completion.chunk","created":1795514918,"model":"glm-5.3-flash-abliterated","choices":[{"index":0,"delta":{"content":"'ll search for"},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-001da7ed8a8d","object":"chat.completion.chunk","created":1795514918,"model":"glm-5.3-flash-abliterated","choices":[{"index":0,"delta":{"content":" both populations in parallel.\n\n"},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-001da7ed8a8d","object":"chat.completion.chunk","created":1795514918,"model":"glm-5.3-flash-abliterated","choices":[{"index":0,"delta":{"tool_calls":[{"id":"chatcmpl-tool-b9627107ae379858","type":"function","index":0,"function":{"name":"search_web"}}]},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-001da7ed8a8d","object":"chat.completion.chunk","created":1795514918,"model":"glm-5.3-flash-abliterated","choices":[{"index":0,"delta":{"tool_calls":[{"index":0,"function":{"arguments":"{\"query\": \"current"}}]},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-001da7ed8a8d","object":"chat.completion.chunk","created":1795514918,"model":"glm-5.3-flash-abliterated","choices":[{"index":0,"delta":{"tool_calls":[{"index":0,"function":{"arguments":" population of Oslo Norway"}}]},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-001da7ed8a8d","object":"chat.completion.chunk","created":1795514918,"model":"glm-5.3-flash-abliterated","choices":[{"index":0,"delta":{"tool_calls":[{"index":0,"function":{"arguments":"\"}"}}]},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-001da7ed8a8d","object":"chat.completion.chunk","created":1795514918,"model":"glm-5.3-flash-abliterated","choices":[{"index":0,"delta":{"tool_calls":[{"id":"chatcmpl-tool-9000fcf615c5b236","type":"function","index":1,"function":{"name":"search_web"}}]},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-001da7ed8a8d","object":"chat.completion.chunk","created":1795514918,"model":"glm-5.3-flash-abliterated","choices":[{"index":0,"delta":{"tool_calls":[{"index":1,"function":{"arguments":"{\"query\": \"current population"}}]},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-001da7ed8a8d","object":"chat.completion.chunk","created":1795514918,"model":"glm-5.3-flash-abliterated","choices":[{"index":0,"delta":{"tool_calls":[{"index":1,"function":{"arguments":" of Bergen Norway"}}]},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-001da7ed8a8d","object":"chat.completion.chunk","created":1795514918,"model":"glm-5.3-flash-abliterated","choices":[{"index":0,"delta":{"tool_calls":[{"index":1,"function":{"arguments":"\"}"}}]},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-001da7ed8a8d","object":"chat.completion.chunk","created":1795514918,"model":"glm-5.3-flash-abliterated","choices":[{"index":0,"delta":{},"logprobs":null,"finish_reason":"tool_calls"}]}
+
+data: {"id":"chatcmpl-001da7ed8a8d","object":"chat.completion.chunk","created":1795514918,"model":"glm-5.3-flash-abliterated","choices":[],"usage":{"prompt_tokens":341,"completion_tokens":85,"total_tokens":426,"prompt_tokens_details":{"cached_tokens":0},"completion_tokens_details":{"reasoning_tokens":0}}}
+
+data: [DONE]
+
+data: [DONE]
+

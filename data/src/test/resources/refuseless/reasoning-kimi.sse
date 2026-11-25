@@ -1,0 +1,44 @@
+data: {"id":"chatcmpl-c541d973d8d0","object":"chat.completion.chunk","created":1795514911,"model":"kimi-k3.1-pro-abliterated","choices":[{"index":0,"delta":{"role":"assistant","content":""},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-c541d973d8d0","object":"chat.completion.chunk","created":1795514911,"model":"kimi-k3.1-pro-abliterated","choices":[{"index":0,"delta":{"reasoning_content":"Мы"},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-c541d973d8d0","object":"chat.completion.chunk","created":1795514911,"model":"kimi-k3.1-pro-abliterated","choices":[{"index":0,"delta":{"reasoning_content":" должны ответить одним"},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-c541d973d8d0","object":"chat.completion.chunk","created":1795514911,"model":"kimi-k3.1-pro-abliterated","choices":[{"index":0,"delta":{"reasoning_content":" предложением по"},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-c541d973d8d0","object":"chat.completion.chunk","created":1795514911,"model":"kimi-k3.1-pro-abliterated","choices":[{"index":0,"delta":{"reasoning_content":"-русски:"},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-c541d973d8d0","object":"chat.completion.chunk","created":1795514911,"model":"kimi-k3.1-pro-abliterated","choices":[{"index":0,"delta":{"reasoning_content":" сколько будет 17 умн"},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-c541d973d8d0","object":"chat.completion.chunk","created":1795514911,"model":"kimi-k3.1-pro-abliterated","choices":[{"index":0,"delta":{"reasoning_content":"ожить на 3? Вы"},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-c541d973d8d0","object":"chat.completion.chunk","created":1795514911,"model":"kimi-k3.1-pro-abliterated","choices":[{"index":0,"delta":{"reasoning_content":"числить"},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-c541d973d8d0","object":"chat.completion.chunk","created":1795514911,"model":"kimi-k3.1-pro-abliterated","choices":[{"index":0,"delta":{"reasoning_content":": 17*3="},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-c541d973d8d0","object":"chat.completion.chunk","created":1795514911,"model":"kimi-k3.1-pro-abliterated","choices":[{"index":0,"delta":{"reasoning_content":"51. Ответить"},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-c541d973d8d0","object":"chat.completion.chunk","created":1795514911,"model":"kimi-k3.1-pro-abliterated","choices":[{"index":0,"delta":{"reasoning_content":" одним предложением. Пример"},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-c541d973d8d0","object":"chat.completion.chunk","created":1795514911,"model":"kimi-k3.1-pro-abliterated","choices":[{"index":0,"delta":{"reasoning_content":": \"17 ум"},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-c541d973d8d0","object":"chat.completion.chunk","created":1795514911,"model":"kimi-k3.1-pro-abliterated","choices":[{"index":0,"delta":{"reasoning_content":"ножить на 3 равно"},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-c541d973d8d0","object":"chat.completion.chunk","created":1795514911,"model":"kimi-k3.1-pro-abliterated","choices":[{"index":0,"delta":{"reasoning_content":" 51.\" Это"},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-c541d973d8d0","object":"chat.completion.chunk","created":1795514911,"model":"kimi-k3.1-pro-abliterated","choices":[{"index":0,"delta":{"reasoning_content":" одно предложение. Н"},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-c541d973d8d0","object":"chat.completion.chunk","created":1795514911,"model":"kimi-k3.1-pro-abliterated","choices":[{"index":0,"delta":{"reasoning_content":"ужно по"},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-c541d973d8d0","object":"chat.completion.chunk","created":1795514911,"model":"kimi-k3.1-pro-abliterated","choices":[{"index":0,"delta":{"reasoning_content":"-русски. Ответ."},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-c541d973d8d0","object":"chat.completion.chunk","created":1795514911,"model":"kimi-k3.1-pro-abliterated","choices":[{"index":0,"delta":{"content":"17 умножить на 3 равно 51."},"logprobs":null,"finish_reason":null}]}
+
+data: {"id":"chatcmpl-c541d973d8d0","object":"chat.completion.chunk","created":1795514911,"model":"kimi-k3.1-pro-abliterated","choices":[{"index":0,"delta":{},"logprobs":null,"finish_reason":"stop"}]}
+
+data: {"id":"chatcmpl-c541d973d8d0","object":"chat.completion.chunk","created":1795514911,"model":"kimi-k3.1-pro-abliterated","choices":[],"usage":{"prompt_tokens":116,"completion_tokens":105,"total_tokens":221,"prompt_tokens_details":{"cached_tokens":0},"completion_tokens_details":{"reasoning_tokens":91}}}
+
+data: [DONE]
+
+data: [DONE]
+

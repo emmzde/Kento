@@ -1,0 +1,16 @@
+data: {"id":"chatcmpl-c864624fc1a8","object":"chat.completion.chunk","created":1795514895,"model":"deepseek-v4.1-flash-abliterated","choices":[{"index":0,"delta":{"role":"assistant","content":""},"logprobs":null,"finish_reason":null}],"usage":{"prompt_tokens":50,"completion_tokens":0,"total_tokens":50,"completion_tokens_details":{"reasoning_tokens":0}}}
+
+data: {"id":"chatcmpl-c864624fc1a8","object":"chat.completion.chunk","created":1795514895,"model":"deepseek-v4.1-flash-abliterated","choices":[{"index":0,"delta":{"content":"17"},"logprobs":null,"finish_reason":null}],"usage":{"prompt_tokens":50,"completion_tokens":1,"total_tokens":51,"completion_tokens_details":{"reasoning_tokens":0}}}
+
+data: {"id":"chatcmpl-c864624fc1a8","object":"chat.completion.chunk","created":1795514895,"model":"deepseek-v4.1-flash-abliterated","choices":[{"index":0,"delta":{"content":" умножить на"},"logprobs":null,"finish_reason":null}],"usage":{"prompt_tokens":50,"completion_tokens":5,"total_tokens":55,"completion_tokens_details":{"reasoning_tokens":0}}}
+
+data: {"id":"chatcmpl-c864624fc1a8","object":"chat.completion.chunk","created":1795514895,"model":"deepseek-v4.1-flash-abliterated","choices":[{"index":0,"delta":{"content":" 3 будет"},"logprobs":null,"finish_reason":null}],"usage":{"prompt_tokens":50,"completion_tokens":8,"total_tokens":58,"completion_tokens_details":{"reasoning_tokens":0}}}
+
+data: {"id":"chatcmpl-c864624fc1a8","object":"chat.completion.chunk","created":1795514895,"model":"deepseek-v4.1-flash-abliterated","choices":[{"index":0,"delta":{"content":" 51."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":50,"completion_tokens":12,"total_tokens":62,"completion_tokens_details":{"reasoning_tokens":0}}}
+
+data: {"id":"chatcmpl-c864624fc1a8","object":"chat.completion.chunk","created":1795514895,"model":"deepseek-v4.1-flash-abliterated","choices":[],"usage":{"prompt_tokens":50,"completion_tokens":12,"total_tokens":62,"prompt_tokens_details":{"cached_tokens":0},"completion_tokens_details":{"reasoning_tokens":0}}}
+
+data: [DONE]
+
+data: [DONE]
+

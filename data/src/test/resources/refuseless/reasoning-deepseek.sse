@@ -1,0 +1,36 @@
+data: {"id":"chatcmpl-24bf89d080a6","object":"chat.completion.chunk","created":1795514895,"model":"deepseek-v4.1-flash-abliterated","choices":[{"index":0,"delta":{"role":"assistant","content":""},"logprobs":null,"finish_reason":null}],"usage":{"prompt_tokens":75,"completion_tokens":0,"total_tokens":75,"completion_tokens_details":{"reasoning_tokens":0}}}
+
+data: {"id":"chatcmpl-24bf89d080a6","object":"chat.completion.chunk","created":1795514895,"model":"deepseek-v4.1-flash-abliterated","choices":[{"index":0,"delta":{"reasoning":"We"},"logprobs":null,"finish_reason":null}],"usage":{"prompt_tokens":75,"completion_tokens":1,"total_tokens":76,"completion_tokens_details":{"reasoning_tokens":1}}}
+
+data: {"id":"chatcmpl-24bf89d080a6","object":"chat.completion.chunk","created":1795514895,"model":"deepseek-v4.1-flash-abliterated","choices":[{"index":0,"delta":{"reasoning":" need answer one"},"logprobs":null,"finish_reason":null}],"usage":{"prompt_tokens":75,"completion_tokens":4,"total_tokens":79,"completion_tokens_details":{"reasoning_tokens":4}}}
+
+data: {"id":"chatcmpl-24bf89d080a6","object":"chat.completion.chunk","created":1795514895,"model":"deepseek-v4.1-flash-abliterated","choices":[{"index":0,"delta":{"reasoning":" sentence Russian:"},"logprobs":null,"finish_reason":null}],"usage":{"prompt_tokens":75,"completion_tokens":7,"total_tokens":82,"completion_tokens_details":{"reasoning_tokens":7}}}
+
+data: {"id":"chatcmpl-24bf89d080a6","object":"chat.completion.chunk","created":1795514895,"model":"deepseek-v4.1-flash-abliterated","choices":[{"index":0,"delta":{"reasoning":" 17*3"},"logprobs":null,"finish_reason":null}],"usage":{"prompt_tokens":75,"completion_tokens":11,"total_tokens":86,"completion_tokens_details":{"reasoning_tokens":11}}}
+
+data: {"id":"chatcmpl-24bf89d080a6","object":"chat.completion.chunk","created":1795514895,"model":"deepseek-v4.1-flash-abliterated","choices":[{"index":0,"delta":{"reasoning":"=51. Need"},"logprobs":null,"finish_reason":null}],"usage":{"prompt_tokens":75,"completion_tokens":15,"total_tokens":90,"completion_tokens_details":{"reasoning_tokens":15}}}
+
+data: {"id":"chatcmpl-24bf89d080a6","object":"chat.completion.chunk","created":1795514895,"model":"deepseek-v4.1-flash-abliterated","choices":[{"index":0,"delta":{"reasoning":" one sentence."},"logprobs":null,"finish_reason":null}],"usage":{"prompt_tokens":75,"completion_tokens":19,"total_tokens":94,"completion_tokens_details":{"reasoning_tokens":19}}}
+
+data: {"id":"chatcmpl-24bf89d080a6","object":"chat.completion.chunk","created":1795514895,"model":"deepseek-v4.1-flash-abliterated","choices":[{"index":0,"delta":{"reasoning":" \"17 ум"},"logprobs":null,"finish_reason":null}],"usage":{"prompt_tokens":75,"completion_tokens":21,"total_tokens":96,"completion_tokens_details":{"reasoning_tokens":21}}}
+
+data: {"id":"chatcmpl-24bf89d080a6","object":"chat.completion.chunk","created":1795514895,"model":"deepseek-v4.1-flash-abliterated","choices":[{"index":0,"delta":{"reasoning":"ножить на"},"logprobs":null,"finish_reason":null}],"usage":{"prompt_tokens":75,"completion_tokens":25,"total_tokens":100,"completion_tokens_details":{"reasoning_tokens":25}}}
+
+data: {"id":"chatcmpl-24bf89d080a6","object":"chat.completion.chunk","created":1795514895,"model":"deepseek-v4.1-flash-abliterated","choices":[{"index":0,"delta":{"reasoning":" 3 будет"},"logprobs":null,"finish_reason":null}],"usage":{"prompt_tokens":75,"completion_tokens":27,"total_tokens":102,"completion_tokens_details":{"reasoning_tokens":27}}}
+
+data: {"id":"chatcmpl-24bf89d080a6","object":"chat.completion.chunk","created":1795514895,"model":"deepseek-v4.1-flash-abliterated","choices":[{"index":0,"delta":{"reasoning":" 51.\" That"},"logprobs":null,"finish_reason":null}],"usage":{"prompt_tokens":75,"completion_tokens":31,"total_tokens":106,"completion_tokens_details":{"reasoning_tokens":31}}}
+
+data: {"id":"chatcmpl-24bf89d080a6","object":"chat.completion.chunk","created":1795514895,"model":"deepseek-v4.1-flash-abliterated","choices":[{"index":0,"delta":{"reasoning":"'s one sentence."},"logprobs":null,"finish_reason":null}],"usage":{"prompt_tokens":75,"completion_tokens":35,"total_tokens":110,"completion_tokens_details":{"reasoning_tokens":35}}}
+
+data: {"id":"chatcmpl-24bf89d080a6","object":"chat.completion.chunk","created":1795514895,"model":"deepseek-v4.1-flash-abliterated","choices":[{"index":0,"delta":{"content":"17 умножить"},"logprobs":null,"finish_reason":null}],"usage":{"prompt_tokens":75,"completion_tokens":40,"total_tokens":115,"completion_tokens_details":{"reasoning_tokens":35}}}
+
+data: {"id":"chatcmpl-24bf89d080a6","object":"chat.completion.chunk","created":1795514895,"model":"deepseek-v4.1-flash-abliterated","choices":[{"index":0,"delta":{"content":" на 3 будет"},"logprobs":null,"finish_reason":null}],"usage":{"prompt_tokens":75,"completion_tokens":44,"total_tokens":119,"completion_tokens_details":{"reasoning_tokens":35}}}
+
+data: {"id":"chatcmpl-24bf89d080a6","object":"chat.completion.chunk","created":1795514895,"model":"deepseek-v4.1-flash-abliterated","choices":[{"index":0,"delta":{"content":" 51."},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":75,"completion_tokens":48,"total_tokens":123,"completion_tokens_details":{"reasoning_tokens":35}}}
+
+data: {"id":"chatcmpl-24bf89d080a6","object":"chat.completion.chunk","created":1795514895,"model":"deepseek-v4.1-flash-abliterated","choices":[],"usage":{"prompt_tokens":75,"completion_tokens":48,"total_tokens":123,"prompt_tokens_details":{"cached_tokens":0},"completion_tokens_details":{"reasoning_tokens":35}}}
+
+data: [DONE]
+
+data: [DONE]
+
